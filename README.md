@@ -1,6 +1,7 @@
 ## [Boostnote](https://github.com/BoostIO/Boostnote) for iOS and Android that build with React Native.
 
-[![App Store](http://imgur.com/y8PTxr9.png "App Store")](https://itunes.apple.com/us/app/boostnote/id1273066636?mt=8)　
+[![App Store](http://imgur.com/y8PTxr9.png "App Store")](https://itunes.apple.com/us/app/boostnote/id1273066636?mt=8)　[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fboostnote-mobile.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fboostnote-mobile?ref=badge_shield)
+
 [![Play Store](http://imgur.com/utWa1co.png "Play Store")](https://play.google.com/store/apps/details?id=io.boostnote)
 
 ![Boostnote app screenshot](./resources/repository/app_image.png)
@@ -43,6 +44,9 @@ Let's talk about Boostnote! <br>
 ## License
 [MIT](https://github.com/BoostIO/boostnote-mobile/blob/master/LICENSE).
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fboostnote-mobile.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fboostnote-mobile?ref=badge_large)
 
 ### Want to contribute or need to see some improvements?
 We would love that, please create an issue or send a PR.
